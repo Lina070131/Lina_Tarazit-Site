@@ -6,7 +6,7 @@
 
 | Prénom NOM | Identifiant Git | Groupe |
 |------------|-----------------|--------|
-|            |                 |        |
+|    Lina        |    Lina070131             |    DevWeb    |
 |            |                 |        |
 
 ### Répartition du travail
