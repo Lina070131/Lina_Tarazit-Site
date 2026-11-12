@@ -18,8 +18,8 @@ _Qui tient quels fichiers ? À revoir toutes les 3-4 séances, en échangeant le
 
 ## Le festival
 
-- **Thème :**
-- **En une phrase :**
+- **Thème :BONBONS
+- **En une phrase :tiers list de BONBONS
 - **Blind test envisagé :** audio / vidéo — sur quoi ?
 
 ## Lancer le projet
