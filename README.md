@@ -42,4 +42,5 @@ Une ligne par séance. L'historique Git dit *qui* a fait *quoi* ; le journal dit
 
 | Séance | Ce qu'on a fait | Ce qui bloque |
 |--------|-----------------|---------------|
-| 1      |                 |               |
+| 1       choisir le thème   inspirations
+|  2      | J'essaie de comprendre git hub           |
