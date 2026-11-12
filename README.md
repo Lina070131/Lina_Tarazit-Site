@@ -18,8 +18,8 @@ _Qui tient quels fichiers ? À revoir toutes les 3-4 séances, en échangeant le
 
 ## Le festival
 
-- **Thème :**
-- **En une phrase :**
+- **Thème :BONBONS
+- **En une phrase :tiers list de BONBONS
 - **Blind test envisagé :** audio / vidéo — sur quoi ?
 
 ## Lancer le projet
@@ -42,4 +42,5 @@ Une ligne par séance. L'historique Git dit *qui* a fait *quoi* ; le journal dit
 
 | Séance | Ce qu'on a fait | Ce qui bloque |
 |--------|-----------------|---------------|
-| 1      |                 |               |
+| 1       choisir le thème   inspirations
+|  2      | J'essaie de comprendre git hub           |
