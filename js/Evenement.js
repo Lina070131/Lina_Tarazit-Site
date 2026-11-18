@@ -1,9 +1,9 @@
 class Evenement {
   constructor(data) {
-this.nom= data.nom;
-this.gout = data.gout;
-this.texture = data.texture;
-this.acidite = data.acidite;
+    this.nom = data.nom;
+    this.gout = data.gout;
+    this.texture = data.texture;
+    this.acidite = data.acidite;
   }
 
   /*heureFin() {
@@ -22,7 +22,10 @@ this.acidite = data.acidite;
   carte() {
     return `
       <li class="carte">
-        <h3>${}</h3>
-      </li>`;
+        <h3>${this.nom}</h3>
+        <p>${this.gout}</p>
+        <p>${this.texture}</p>
+        <p>${this.acidite}</p>
+        </li>`;
   }
 }
