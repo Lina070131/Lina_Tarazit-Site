@@ -1,9 +1,12 @@
 class Evenement {
-  constructor() {
-
+  constructor(data) {
+this.nom= data.nom;
+this.gout = data.gout;
+this.texture = data.texture;
+this.acidite = data.acidite;
   }
 
-  heureFin() {
+  /*heureFin() {
     const heures = Number(this..slice(0, 2));
     const minutes = Number(this..slice(3, 5));
     const total = heures * 60 + minutes + this.;
@@ -14,7 +17,7 @@ class Evenement {
     if (m < 10) m = "0" + m;
 
     return h + ":" + m;
-  }
+  }*/
 
   carte() {
     return `
